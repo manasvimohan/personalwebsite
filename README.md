@@ -15,4 +15,4 @@ For the workflow to work, we need to configure github pages in the repo settings
 Further, you will notice I use a custom domain, ie www.manasvi.co.in. This can also be set in the github repo settings.
 
 # Contact
-If you wish to know more, ping me.
+If you wish to know more, ping me, [contact details here](https://github.com/manasvimohan)
